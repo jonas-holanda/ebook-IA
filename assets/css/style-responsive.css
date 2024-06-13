@@ -8,9 +8,15 @@
         width: 80%;
     }
 
+    p {
+        text-indent: .9375rem;
+    }
+
     header ul {
-        flex-wrap: wrap;
+        text-align: center;
+        align-items: center;
         justify-content: center;
+        flex-wrap: wrap;
     }
 
     header li {
