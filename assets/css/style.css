@@ -103,9 +103,9 @@ main {
 
 .back-to-top {
     cursor: pointer;
-    color: inherit;
+    color: #4da1b9;
     position: fixed;
-    right: 1rem;
+    right: 0;
     bottom: 1rem;
    
     line-height: 0;
