@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+
+    body {
+        padding: 5px;
+    }
+
+    img {
+        width: 80%;
+    }
+
+    header ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    header li {
+        margin: 5px;
+    }
+
+    main,header {
+        width: 100%;
+    }
+
+}
